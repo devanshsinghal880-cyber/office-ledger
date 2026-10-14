@@ -1,0 +1,7 @@
+{
+  "open_date": "2026-10-01",
+  "open_cash": 20000,
+  "open_bank": 35000,
+  "heads": ["Legal", "Salary", "Marketing", "Incentive", "Rent", "Internet", "Communication", "Traveling"],
+  "sub_heads": {"Communication": ["recharge"], "Rent": ["office rent"]}
+}
